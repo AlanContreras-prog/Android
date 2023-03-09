@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="cocina_many">Cocina Many</string>
+    <string name="entrada">Entrada</string>
+    <string name="imagen_entrada"></string>
+    <string name="sopa_aguada">Sopa Aguada</string>
+    <string name="espagueti">Espagueti</string>
+    <string name="arroz">Arroz</string>
+    <string name="plato_fuerte">Plato Fuerte</string>
+    <string name="imagen_fuerte"></string>
+    <string name="albondigas_chipotle">Albondigas en chipotle</string>
+    <string name="cochinita_pibil">Cochinita pibil</string>
+    <string name="alambre">Alambre</string>
+    <string name="postre">Postre</string>
+    <string name="imagen_postre"></string>
+    <string name="arroz_leche">Arroz con leche</string>
+    <string name="fruta_picada">Fruta picada</string>
+    <string name="flan">Flan</string>
+    <string name="bebida">Bebida</string>
+    <string name="imagen_bebida"></string>
+    <string name="refresco">Refresco</string>
+    <string name="agua_fruta">Agua de fruta</string>
+    <string name="agua">Agua</string>
+    <string name="ordenar">Ordenar</string>
+    <string name="ver">Ver</string>
+</resources>
